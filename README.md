@@ -1,0 +1,1 @@
+PlanMyDay is a user-friendly tool designed to help you organize and manage your daily tasks efficiently. Built with HTML, CSS, and JavaScript, it allows you to schedule activities, set reminders, and track your progress throughout the day. Perfect for boosting productivity and staying organized.
